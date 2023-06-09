@@ -30,7 +30,7 @@
 Установите и запустите memcached.
 
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
-
+![img](https://github.com/Dokukin1/Redis-memcached/blob/main/img/11.png)
 ---
 
 ### Задание 3. Удаление по TTL в Memcached
@@ -38,6 +38,7 @@
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5. 
 
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
+![img](https://github.com/Dokukin1/Redis-memcached/blob/main/img/22.png)
 
 ---
 
@@ -46,3 +47,4 @@
 Запишите в Redis несколько ключей с любыми именами и значениями. 
 
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
+![img](https://github.com/Dokukin1/Redis-memcached/blob/main/img/33.png)
